@@ -6,6 +6,9 @@
     height: 746px;
     width: 1500px;
 }
+body{
+    overflow: hidden;
+}
 .nav-container{
     display: flex;
     justify-content: space-around;
