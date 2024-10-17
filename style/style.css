@@ -1,14 +1,10 @@
 *{
-    margin: 5px;
+    margin: 6px;
 }
 .header-container{
     background-image: url("../Image/base.png");
- 
-    
 }
-body{
-    overflow: hidden;
-}
+
 .nav-container{
     display: flex;
     justify-content: space-around;
